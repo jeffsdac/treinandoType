@@ -1,4 +1,5 @@
 export class Negociacao {
+    // Ele já consegue entender.
     constructor(data, quantidade, valor) {
         this._data = data;
         this._quantidade = quantidade;
