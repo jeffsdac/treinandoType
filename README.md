@@ -1,0 +1,2 @@
+# treinandoType
+ treinando type script
